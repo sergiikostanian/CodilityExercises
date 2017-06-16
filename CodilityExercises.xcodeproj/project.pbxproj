@@ -11,7 +11,9 @@
 		82455F5F1EF4340F00B49AC1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82455F5E1EF4340F00B49AC1 /* ViewController.swift */; };
 		82455F611EF4340F00B49AC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82455F601EF4340F00B49AC1 /* Assets.xcassets */; };
 		82455F641EF4340F00B49AC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82455F621EF4340F00B49AC1 /* Main.storyboard */; };
-		82455F6F1EF4340F00B49AC1 /* CodilityExercisesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82455F6E1EF4340F00B49AC1 /* CodilityExercisesTests.swift */; };
+		82455F7A1EF4352500B49AC1 /* Lesson1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82455F791EF4352500B49AC1 /* Lesson1.swift */; };
+		82455F7C1EF4399C00B49AC1 /* Lesson2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82455F7B1EF4399C00B49AC1 /* Lesson2.swift */; };
+		82455F7E1EF43B0000B49AC1 /* Lesson3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82455F7D1EF43B0000B49AC1 /* Lesson3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,8 +34,10 @@
 		82455F631EF4340F00B49AC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		82455F651EF4340F00B49AC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		82455F6A1EF4340F00B49AC1 /* CodilityExercisesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CodilityExercisesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		82455F6E1EF4340F00B49AC1 /* CodilityExercisesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodilityExercisesTests.swift; sourceTree = "<group>"; };
 		82455F701EF4340F00B49AC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82455F791EF4352500B49AC1 /* Lesson1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lesson1.swift; sourceTree = "<group>"; };
+		82455F7B1EF4399C00B49AC1 /* Lesson2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lesson2.swift; sourceTree = "<group>"; };
+		82455F7D1EF43B0000B49AC1 /* Lesson3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lesson3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,8 +91,10 @@
 		82455F6D1EF4340F00B49AC1 /* CodilityExercisesTests */ = {
 			isa = PBXGroup;
 			children = (
-				82455F6E1EF4340F00B49AC1 /* CodilityExercisesTests.swift */,
 				82455F701EF4340F00B49AC1 /* Info.plist */,
+				82455F791EF4352500B49AC1 /* Lesson1.swift */,
+				82455F7B1EF4399C00B49AC1 /* Lesson2.swift */,
+				82455F7D1EF43B0000B49AC1 /* Lesson3.swift */,
 			);
 			path = CodilityExercisesTests;
 			sourceTree = "<group>";
@@ -206,7 +212,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				82455F6F1EF4340F00B49AC1 /* CodilityExercisesTests.swift in Sources */,
+				82455F7E1EF43B0000B49AC1 /* Lesson3.swift in Sources */,
+				82455F7C1EF4399C00B49AC1 /* Lesson2.swift in Sources */,
+				82455F7A1EF4352500B49AC1 /* Lesson1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
