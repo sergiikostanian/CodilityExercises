@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		820FCEC41F0142C3008909FB /* Lesson6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820FCEC31F0142C3008909FB /* Lesson6.swift */; };
 		82360E191EFD7C24004CBCDD /* Lesson5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82360E181EFD7C24004CBCDD /* Lesson5.swift */; };
 		82455F5D1EF4340F00B49AC1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82455F5C1EF4340F00B49AC1 /* AppDelegate.swift */; };
 		82455F5F1EF4340F00B49AC1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82455F5E1EF4340F00B49AC1 /* ViewController.swift */; };
@@ -29,6 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		820FCEC31F0142C3008909FB /* Lesson6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lesson6.swift; sourceTree = "<group>"; };
 		82360E181EFD7C24004CBCDD /* Lesson5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lesson5.swift; sourceTree = "<group>"; };
 		82455F591EF4340F00B49AC1 /* CodilityExercises.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodilityExercises.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		82455F5C1EF4340F00B49AC1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				82455F7D1EF43B0000B49AC1 /* Lesson3.swift */,
 				825F9F9C1EF6B1D2006632B8 /* Lesson4.swift */,
 				82360E181EFD7C24004CBCDD /* Lesson5.swift */,
+				820FCEC31F0142C3008909FB /* Lesson6.swift */,
 			);
 			path = CodilityExercisesTests;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				820FCEC41F0142C3008909FB /* Lesson6.swift in Sources */,
 				825F9F9D1EF6B1D2006632B8 /* Lesson4.swift in Sources */,
 				82360E191EFD7C24004CBCDD /* Lesson5.swift in Sources */,
 				82455F7E1EF43B0000B49AC1 /* Lesson3.swift in Sources */,
